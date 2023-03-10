@@ -23,7 +23,7 @@ E-Commerce Manager backend node application that uses the latest technology of J
 
 ![Screenshot](https://github.com/winglovecola/ecommerce-manager/blob/main/assets/images/screenshot.jpg?raw=true)
 
-### [Usage Walkthrough Video](https://drive.google.com/file/d/1apFRIzPzWoKOqruKprsrdm7RcTRRbK9t/view?usp=share_link)
+### [Usage Walkthrough Video](https://drive.google.com/file/d/1Fwd7ex5rcrRQ8bfu4qdQOjg6Zbd92d7z/view?usp=sharing)
 
 
 
